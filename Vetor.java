@@ -1,6 +1,6 @@
 package exemplos;
 
-public class vetor {
+public class Vetor {
 
 	public static void main(String[] args) {
 		String[] nome = { "Alexandre", "Brenda", "Carol", "Dara", "Enrique", "Fátima" };
