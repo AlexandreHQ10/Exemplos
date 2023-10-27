@@ -1,4 +1,4 @@
-package Calculador;
+package exemplos;
 
 public class Tabuada {
 
