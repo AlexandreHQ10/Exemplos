@@ -1,4 +1,4 @@
-package Manzano;
+package exemplos;
 
 import java.util.Scanner;
 
